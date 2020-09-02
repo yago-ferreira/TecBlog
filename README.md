@@ -1,2 +1,2 @@
 # TecBlog
-Página Web que fiz utilizando HTML,CSS,Boostrap 
+Página Web que fiz utilizando HTML,CSS Básico.
